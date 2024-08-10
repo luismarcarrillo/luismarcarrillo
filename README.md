@@ -1,13 +1,11 @@
 ## Hi there! 👋
 
-I'm Luismar Carrillo, a passionate student of electronic engineering. My main goal is to delve deep into the world of mathematics, understanding its purest forms and applying this knowledge to solve real-world problems in areas such as finance, climate change, and computer science. Here’s a bit more about me:
+I'm Luismar Carrillo, an enthusiastic student of electronic engineering with a deep passion for mathematics and machine learning. My ultimate goal is to become an applied mathematician and scientist, using these powerful tools to solve complex problems across various domains, including finance, climate change, and computer science. Here’s a bit more about me:
 
-- 🔭 I’m currently working on mastering Java Spring Boot and applying Machine Learning techniques to problems and areas of interest such as finance and climate change, using mathematics and computer science.
-- 🌱 I’m currently learning Java, ML Engineering, and a lot of mathematics.
-- 👯 I’m looking to collaborate on open-source projects, especially those related to mathematics, computer science, finance, or climate change.
-- 🤔 I’m looking for help to create an open-source community in Machine Learning and Artificial Intelligence topics.
+- 🔭 I’m currently focused on advancing my knowledge in machine learning and mathematics, applying these techniques to tackle challenges in fields like finance and climate change, all while building a solid foundation in computer science.
+- 🌱 I’m actively learning Python, ML Engineering, and deepening my understanding of mathematics.
+- 👯 I’m eager to collaborate on open-source projects, especially those that intersect with mathematics, computer science, finance, or climate change.
+- 🤔 I’m looking to build and contribute to an open-source community centered on Machine Learning and Artificial Intelligence.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/luismarcarrillo)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a keen interest in ultralearning techniques and always strive to find the most efficient ways to master new skills and knowledge.
 
-Feel free to connect with me or ask any questions! I'm always open to new ideas and collaborations.
+Feel free to connect with me or ask any questions! I'm always open to new ideas, collaborations, and challenges.
