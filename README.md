@@ -5,7 +5,7 @@ I'm Luismar Carrillo, an enthusiastic electrical engineering student with a deep
 - 🔭 I am currently focused on learning more about machine learning and mathematics, applying all of this to diverse domains of such as electronic engineering, finance and climate change. 
 - 🌱 I am actively learning Python, ML Engineering, and deepening my understanding of mathematics.
 - 👯 I am open to collaborating on projects especially open source, being most interested in those where mathematics, machine learning, and engineering intersect. 
-- 🤔 I seek to build, teach and strengthen through the community to which I belong CUSOL - UIS [Cusol-uis](https://cusol.uis.edu.co/) from open source focused on Machine Learning and Artificial Intelligence to strengthen the development of LATAM.
+- 🤔 I seek to build, teach and strengthen through the community to which I belong [Cusol-uis](https://cusol.uis.edu.co/) from open source focused on Machine Learning and Artificial Intelligence to strengthen the development of LATAM.
 
 - 📫 Contact me through LinkedIn: [LinkedIn](https://linkedin.com/in/luismarcarrillo)
 
