@@ -1,11 +1,12 @@
-## Hi there! 👋
+## Hello! 👋
 
-I'm Luismar Carrillo, an enthusiastic student of electronic engineering with a deep passion for mathematics and machine learning. My ultimate goal is to become an applied mathematician and scientist, using these powerful tools to solve complex problems across various domains, including finance, climate change, and computer science. Here’s a bit more about me:
+I'm Luismar Carrillo, an enthusiastic electrical engineering student with a deep passion for mathematics and machine learning. My career goal is to become a scientist focused on applied mathematics, using these tools to solve complex problems across diverse domains, including finance, climate change, and electronic engineering. Below you'll find a little more about me:
 
-- 🔭 I’m currently focused on advancing my knowledge in machine learning and mathematics, applying these techniques to tackle challenges in fields like finance and climate change, all while building a solid foundation in computer science.
-- 🌱 I’m actively learning Python, ML Engineering, and deepening my understanding of mathematics.
-- 👯 I’m eager to collaborate on open-source projects, especially those that intersect with mathematics, computer science, finance, or climate change.
-- 🤔 I’m looking to build and contribute to an open-source community centered on Machine Learning and Artificial Intelligence.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/luismarcarrillo)
+- 🔭 I am currently focused on learning more about machine learning and mathematics, applying all of this to diverse domains of such as electronic engineering, finance and climate change. 
+- 🌱 I am actively learning Python, ML Engineering, and deepening my understanding of mathematics.
+- 👯 I am open to collaborating on projects especially open source, being most interested in those where mathematics, machine learning, and engineering intersect. 
+- 🤔 I seek to build, teach and strengthen through the community to which I belong CUSOL - UIS [Cusol-uis](https://cusol.uis.edu.co/) from open source focused on Machine Learning and Artificial Intelligence to strengthen the development of LATAM.
 
-Feel free to connect with me or ask any questions! I'm always open to new ideas, collaborations, and challenges.
+- 📫 Contact me through LinkedIn: [LinkedIn](https://linkedin.com/in/luismarcarrillo)
+
+Feel free to connect with me or ask any questions! I am always open to new ideas, collaborations and challenges.
