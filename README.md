@@ -1,3 +1,4 @@
-![ChatGPT Image May 9, 2025, 10_15_18 PM](https://github.com/user-attachments/assets/1ea63769-76f0-4d86-aa32-60f6576da253)
+
+![ChatGPT Image May 17, 2025, 01_00_57 PM](https://github.com/user-attachments/assets/776ee241-5735-4b77-b233-4a684f240e07)
 
 Mathematics student interested in data science and ML engineering. Aspiring mathematical physicist passionate about topics like finance, climate change, human cognition, and social justice.
