@@ -1,11 +1,11 @@
 
-![ChatGPT Image May 17, 2025, 01_39_13 PM](https://github.com/user-attachments/assets/24de9d49-1c55-40c0-a7ca-3a229a80404c)
+![image](https://github.com/user-attachments/assets/7de1a721-5057-46b0-b684-f84102b3bc83)
 
 ### 🌍 About Me
 
-Hi! I’m **Luismar Carrillo**, an undergraduate student in **Electronics Engineering** at the **Industrial University of Santander (UIS)** in Bucaramanga, Colombia. Alongside my engineering studies, I’m deeply committed to learning **formal mathematics** at a professional level, with the goal of becoming a **mathematical physicist and scientific researcher**.
+Hi! I’m Simón Carrillo Álvarez, an undergraduate student in Mathematics. I’m pursuing a rigorous academic path with the goal of becoming a mathematical physicist and scientific researcher.
 
-I’m passionate about **technology and science**, and I aim to harness the power of **Artificial Intelligence and Machine Learning** to contribute to the advancement of **knowledge and innovation**.
+I’m passionate about technology and science, and I aim to harness the power of Artificial Intelligence and Machine Learning to contribute to the advancement of knowledge and innovation.
 
 ---
 
