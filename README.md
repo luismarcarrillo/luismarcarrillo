@@ -1,5 +1,5 @@
 
-![ChatGPT Image Jun 26, 2025, 09_32_14 PM](https://github.com/user-attachments/assets/a01a7da0-9a30-44fe-852c-af5ebe6ad29c)
+<img width="1536" height="1024" alt="f466e22f-cf73-40de-ad28-fc559fe3e596" src="https://github.com/user-attachments/assets/cdccc670-f8a2-442a-8693-e232e978b45b" />
 
 ### 🌍 About Me
 
