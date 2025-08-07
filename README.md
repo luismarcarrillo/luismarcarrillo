@@ -1,5 +1,5 @@
 
-<img width="828" height="90" alt="f466e22f-cf73-40de-ad28-fc559fe3e596" src="https://github.com/user-attachments/assets/cdccc670-f8a2-442a-8693-e232e978b45b"/>
+<img width="1028" height="190" alt="f466e22f-cf73-40de-ad28-fc559fe3e596" src="https://github.com/user-attachments/assets/cdccc670-f8a2-442a-8693-e232e978b45b"/>
 
 ### 🌍 About Me
 
