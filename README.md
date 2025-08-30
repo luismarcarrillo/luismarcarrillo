@@ -1,5 +1,6 @@
 
-<img width="1028" height="190" alt="f466e22f-cf73-40de-ad28-fc559fe3e596" src="https://github.com/user-attachments/assets/cdccc670-f8a2-442a-8693-e232e978b45b"/>
+<img width="1536" height="1024" alt="2909fbdc-1e7f-4d47-b989-e4c28f8b3813" src="https://github.com/user-attachments/assets/11de127f-e3db-482d-a510-c65f06b249e4" />
+
 
 ### 🌍 About Me
 
