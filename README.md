@@ -19,6 +19,7 @@
 
 ---
 
+<img width="1536" height="1024" alt="47bef6e8-660a-4977-a7db-8ea7a603429a" src="https://github.com/user-attachments/assets/2de5d71a-91b4-4443-a187-4d0f37c4c051" />
 
 
 ## 🌍 Sobre mí
