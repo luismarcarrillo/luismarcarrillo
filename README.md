@@ -3,50 +3,52 @@
 
 # **Luismar Carrillo Álvarez**
 
-**Pure Mathematics · Mathematical Physics · AI/ML for Scientific Discovery**
+**Pure Mathematics · Financial mathematics · AI/ML for Scientific Discovery**
 
-[![Mathematical Physics](https://img.shields.io/badge/Mathematical%20Physics-212121?style=flat&logo=academia&logoColor=white)](#)
 [![AI / ML for Science](https://img.shields.io/badge/AI%20%2F%20ML%20for%20Science-1b5e20?style=flat&logo=tensorflow&logoColor=white)](#)
 [![Math Finance Modeling](https://img.shields.io/badge/Math%20Finance%20Modeling-004d40?style=flat&logo=apache-spark&logoColor=white)](#)
 [![Basic Research](https://img.shields.io/badge/Basic%20Research-263238?style=flat&logo=readthedocs&logoColor=white)](#)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismar-carrillo-ds/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/LuismarCarrill4)
-[![Website](https://img.shields.io/badge/Website-1f2937?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 [![CV (PDF)](https://img.shields.io/badge/CV%20(PDF)-374151?style=flat&logo=adobeacrobatreader&logoColor=white)](https://example.com/luismar-cv.pdf)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@TU_USUARIO)
+
 
 </div>
 
 ---
 
-<img width="1536" height="1024" alt="47bef6e8-660a-4977-a7db-8ea7a603429a" src="https://github.com/user-attachments/assets/2de5d71a-91b4-4443-a187-4d0f37c4c051" />
-
 
 ## 🌍 Sobre mí
 
-Soy **Luismar Carrillo Álvarez**, estudiante de **Matemática Pura** en la **Universidad Nacional de Colombia (UNAL)**.  
-Mi enfoque científico está orientado hacia la **Física Matemática**, integrando el rigor teórico de las matemáticas con la comprensión profunda de los fenómenos físicos.  
-Además, me interesa la **programación científica**, en particular **Ciencia de Datos**, **Aprendizaje Automático (ML)** e **Inteligencia Artificial** aplicada al descubrimiento científico.
+Soy **Luismar Carrillo Álvarez**, estudiante de **Matemática Pura** en la **Universidad Nacional de Colombia (UNAL)**, con **minor en Estadística** y un fuerte interés en **Matemática Aplicada**.  
+Me motiva conectar el rigor teórico con problemas reales, especialmente en **finanzas cuantitativas** y en aplicaciones de **IA/ML**.
+
+Disfruto la **programación científica** y el trabajo con datos: desde modelar y validar hipótesis con herramientas estadísticas, hasta diseñar métodos y modelos con base matemática que aporten a la investigación y al descubrimiento científico.
 
 ### 🔬 Intereses
-- **Física Matemática** y su papel fundamental en la comprensión del universo  
-- **IA y ML para el descubrimiento científico**  
-- **Modelación matemática en finanzas**  
-- **El valor transformador de la investigación básica**
+- **Estadística** (inferencia, modelación probabilística, incertidumbre)
+- **Matemática financiera** y **modelación cuantitativa** (riesgo, valoración, series de tiempo)
+- **IA y ML** con fundamentos matemáticos (optimización, generalización, incertidumbre)
+- **Programación científica** (Python/R, computación numérica, reproducibilidad)
+- **Investigación básica** y su impacto a largo plazo
 
 ---
 
 ## 🌍 About Me (EN)
 
-I am **Luismar Carrillo Álvarez**, a **Pure Mathematics** student at the **National University of Colombia (UNAL)**.  
-My scientific focus is directed toward **Mathematical Physics**, combining mathematical rigor with a deep understanding of physical phenomena.  
-I’m also interested in **scientific programming**, especially **Data Science**, **Machine Learning**, and **Artificial Intelligence** for scientific discovery.
+I’m **Luismar Carrillo Álvarez**, a **Pure Mathematics** student at the **National University of Colombia (UNAL)**, with a **minor in Statistics** and a strong focus on **Applied Mathematics**.  
+I enjoy bridging rigorous theory with real-world problems—especially in **quantitative finance** and **AI/ML** applications.
+
+I’m also passionate about **scientific programming** and data-driven research: from statistical modeling and inference to building mathematically grounded ML methods that support scientific discovery.
 
 ### 🔬 Interests
-- **Mathematical Physics** and its fundamental role in understanding the universe  
-- **AI and ML for scientific discovery**  
-- **Mathematical modeling in finance**  
-- **The transformative power of basic research**
+- **Statistics** (inference, probabilistic modeling, uncertainty)
+- **Mathematical/quantitative finance** (risk, valuation, time series)
+- **AI & ML with strong foundations** (optimization, generalization, uncertainty)
+- **Scientific computing** (Python/R, numerical methods, reproducibility)
+- **The long-term impact of basic research**
+
 
 ---
 
