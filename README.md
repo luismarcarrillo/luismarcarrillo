@@ -1,9 +1,9 @@
 <!-- ====== HEADER / BANNER ====== -->
 <div align="center">
 
-# **Luismar Carrillo Álvarez**
+# **Luismar Alvarez**
 
-**Pure Mathematics · Financial mathematics · AI/ML for Scientific Discovery**
+**Pure Mathematics · Computer Science · AI/ML for Scientific Discovery**
 
 [![AI / ML for Science](https://img.shields.io/badge/AI%20%2F%20ML%20for%20Science-1b5e20?style=flat&logo=tensorflow&logoColor=white)](#)
 [![Pure Mathematics](https://img.shields.io/badge/Pure%20Mathematics-4a148c?style=flat&logo=latex&logoColor=white)](#)
