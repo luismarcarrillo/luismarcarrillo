@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismar-carrillo-ds/)
 [![CV (PDF)](https://img.shields.io/badge/CV%20(PDF)-374151?style=flat&logo=adobeacrobatreader&logoColor=white)](https://example.com/luismar-cv.pdf)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)(https://medium.com/@luismath.pi) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luismath.pi)
 
 
 </div>
