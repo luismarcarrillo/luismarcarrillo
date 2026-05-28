@@ -1,36 +1,27 @@
 <!-- ====== HEADER / BANNER ====== -->
 <div align="center">
 
-# **Luismar Carrillo Álvarez**
+# **Luismar Álvarez  Carrillo**
 
-**Mathematics · Computer Science · AI/ML for Scientific Discovery**
+**Mathematics · Computer Science · Research**
 
-[![AI / ML for Science](https://img.shields.io/badge/AI%20%2F%20ML%20for%20Science-1b5e20?style=flat&logo=tensorflow&logoColor=white)](#)
 [![Pure Mathematics](https://img.shields.io/badge/Pure%20Mathematics-4a148c?style=flat&logo=latex&logoColor=white)](#)
 [![Applied Mathematics](https://img.shields.io/badge/Applied%20Mathematics-0d47a1?style=flat&logo=wolfram&logoColor=white)](#)
 [![Computer Science](https://img.shields.io/badge/Computer%20Science-263238?style=flat&logo=python&logoColor=white)](#)
-[![Basic Research](https://img.shields.io/badge/Basic%20Research-263238?style=flat&logo=readthedocs&logoColor=white)](#)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismar-carrillo-ds/)
-[![CV (PDF)](https://img.shields.io/badge/CV%20(PDF)-374151?style=flat&logo=adobeacrobatreader&logoColor=white)]([URL de tu CV]) <!-- 🔁 Reemplaza con el enlace real -->
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luismath.pi)
-
+[![Research](https://img.shields.io/badge/Research-2c3e50?style=flat&logo=readthedocs&logoColor=white)](#)
 </div>
 
 ---
 
 ## 🌍 Sobre mí
 
-Soy **Luismar Carrillo Álvarez**, estudiante de **Matemática** en la **Universidad Nacional de Colombia (UNAL)**, con opción de doble titulación en **Ciencias de la Computación**.
+Soy Luismar Álvarez Carrillo , estudiante de Matemática en la Universidad Nacional de Colombia (UNAL).
 
-Mi formación se centra en el rigor teórico y la estructura formal de la matemática, pero me interesa especialmente su proyección hacia problemas complejos del mundo real a través de la modelación, la computación y la investigación interdisciplinaria.
+Mi formación se centra en el rigor teórico y la estructura formal de la matemática, pero me interesa especialmente su proyección hacia problemas complejos del mundo real a través de la modelación, la computación y la investigación interdisciplinaria. Me gusta habitar entre lo así llamado puro y aplicado, aunque para mí la matemática es solo una; me gusta esa interseccionalidad de perspectivas.
 
-Me motiva entender los fundamentos, las estructuras, los límites, las demostraciones y luego utilizarlos como base para construir modelos, algoritmos y herramientas que aporten al conocimiento científico y al desarrollo social.
+Me motiva entender los fundamentos, las estructuras, los límites de la matemática, las demostraciones y luego utilizarlos como base para construir modelos, algoritmos y herramientas que aporten al conocimiento científico y al desarrollo social.
 
-Disfruto la **programación científica**, el análisis de datos y el desarrollo de métodos computacionales con sustento matemático sólido, siempre con un enfoque en la claridad conceptual, la reproducibilidad y el impacto a largo plazo.
-
-<!-- Opcional: agrega aquí una foto tuya o un emoji académico -->
-<!-- ![Tu foto](URL_de_tu_foto) -->
+Para mí es tan importante el para qué se investiga como el cómo se hace ciencia y para quién se hace ciencia. También hay que tener un profundo sentido y marco ético y moral sobre el proceso y la finalidad del quehacer científico. Siempre, para entendernos y ubicarnos mejor en el mundo, entendiendo la naturaleza del mismo y del universo, y así también mejorar nuestro mundo y construir comunidad y sociedad.
 
 ---
 
@@ -115,19 +106,9 @@ Interés en el desarrollo teórico y su impacto estructural en el conocimiento c
 - **Medium:** [@luismath.pi](https://medium.com/@luismath.pi)
 - **Curriculum Vitae (PDF):** [Descargar CV]([URL_CV])
 
----
-
-## 📊 Estadísticas de GitHub
-
-<!-- Opcional: tarjetas de estadísticas. Usa https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="150"/>
-</div>
-<!-- Sustituye TU_USUARIO por tu nombre de usuario de GitHub -->
 
----
+> *“La belleza de las matemáticas solo se revela a los seguidores más pacientes.”*  
+> — **Maryam Mirzakhani**  
 
-<div align="center">
-  <em>“Las matemáticas son la música de la razón.” – James Joseph Sylvester</em>
 </div>
